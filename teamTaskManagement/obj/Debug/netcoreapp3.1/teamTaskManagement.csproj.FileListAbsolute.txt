@@ -1,0 +1,13 @@
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\bin\Debug\netcoreapp3.1\teamTaskManagement.exe
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\bin\Debug\netcoreapp3.1\teamTaskManagement.deps.json
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\bin\Debug\netcoreapp3.1\teamTaskManagement.runtimeconfig.json
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\bin\Debug\netcoreapp3.1\teamTaskManagement.runtimeconfig.dev.json
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\bin\Debug\netcoreapp3.1\teamTaskManagement.dll
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\bin\Debug\netcoreapp3.1\teamTaskManagement.pdb
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.csprojAssemblyReference.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.AssemblyInfoInputs.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.AssemblyInfo.cs
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.dll
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.pdb
+C:\Users\Mico-pc\source\repos\teamTaskManagement\teamTaskManagement\obj\Debug\netcoreapp3.1\teamTaskManagement.genruntimeconfig.cache
