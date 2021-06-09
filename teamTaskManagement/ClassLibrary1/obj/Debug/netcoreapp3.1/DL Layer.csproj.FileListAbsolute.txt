@@ -1,0 +1,9 @@
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\bin\Debug\netcoreapp3.1\DL Layer.deps.json
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\bin\Debug\netcoreapp3.1\DL Layer.dll
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\bin\Debug\netcoreapp3.1\DL Layer.pdb
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\obj\Debug\netcoreapp3.1\DL Layer.csprojAssemblyReference.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\obj\Debug\netcoreapp3.1\DL Layer.AssemblyInfoInputs.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\obj\Debug\netcoreapp3.1\DL Layer.AssemblyInfo.cs
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\obj\Debug\netcoreapp3.1\DL Layer.csproj.CoreCompileInputs.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\obj\Debug\netcoreapp3.1\DL Layer.dll
+C:\Users\Mico-pc\source\repos\teamTaskManagement\ClassLibrary1\obj\Debug\netcoreapp3.1\DL Layer.pdb

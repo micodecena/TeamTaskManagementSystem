@@ -7,14 +7,37 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "teamTaskManagement/1.0.0": {
+        "dependencies": {
+          "BLlayer": "1.0.0"
+        },
         "runtime": {
           "teamTaskManagement.dll": {}
+        }
+      },
+      "BLlayer/1.0.0": {
+        "runtime": {
+          "BLlayer.dll": {}
+        }
+      },
+      "DL Layer/1.0.0": {
+        "runtime": {
+          "DL Layer.dll": {}
         }
       }
     }
   },
   "libraries": {
     "teamTaskManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLlayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DL Layer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,9 @@
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\bin\Debug\netcoreapp3.1\BLlayer.deps.json
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\bin\Debug\netcoreapp3.1\BLlayer.dll
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\bin\Debug\netcoreapp3.1\BLlayer.pdb
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\obj\Debug\netcoreapp3.1\BLlayer.csprojAssemblyReference.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\obj\Debug\netcoreapp3.1\BLlayer.AssemblyInfoInputs.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\obj\Debug\netcoreapp3.1\BLlayer.AssemblyInfo.cs
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\obj\Debug\netcoreapp3.1\BLlayer.csproj.CoreCompileInputs.cache
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\obj\Debug\netcoreapp3.1\BLlayer.dll
+C:\Users\Mico-pc\source\repos\teamTaskManagement\BL Layer\obj\Debug\netcoreapp3.1\BLlayer.pdb
